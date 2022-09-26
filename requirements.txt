@@ -4,3 +4,4 @@ matplotlib==3.6.0
 numpy==1.23.1
 yfinance==0.1.74
 lxml==4.9.1
+seaborn==0.12.0
